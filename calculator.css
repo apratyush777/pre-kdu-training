@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to right,black, #f7797d);
+
+}
+input{
+    margin-bottom: 10px;
+}
+h1,h3{
+    color:white;
+}
+button{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #f7797d;
+    color: white;
+}
